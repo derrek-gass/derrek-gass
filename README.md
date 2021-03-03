@@ -1,5 +1,5 @@
 ### Hi there 👋
-##🌱 I’m currently learning rust, WASM, react, & TypeScript
+🌱 I’m currently learning rust, WASM, react, & TypeScript
 
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
