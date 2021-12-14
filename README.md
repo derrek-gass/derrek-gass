@@ -1,4 +1,5 @@
 ### Full-Stack Engineer
+https://derrekgass-cv.herokuapp.com/
 
 - 🔭 I’m currently working with React enhanced with TypeScript, Java w/ Spring, on a beast of a CRUD application.
 
@@ -6,7 +7,6 @@
 
 - ⚡ In my free time, I like to hike, ski, garden, solve puzzles, build computers, fix electronics, install linux where it doesn't belong, upcycle everything, learn finance, finess networks, secure IoT for fun smart-home projects, write creative software (audio/visual), produce music, and stay fit as best as possible.
 
-https://derrekgass-cv.herokuapp.com/
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
