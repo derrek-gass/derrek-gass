@@ -1,5 +1,5 @@
 ### Full-Stack Engineer
-https://derrekgass-cv.herokuapp.com/
+lambdaphase.com
 
 - 🔭 I’m currently working on projects with React with the TypeScript superset, and Java w/ Spring.
 
