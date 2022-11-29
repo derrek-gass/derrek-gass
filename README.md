@@ -1,5 +1,4 @@
 ### Full-Stack Engineer
-www.lambdaphase.com
 
 - 🔭 I’m currently working on projects with React with the TypeScript superset, and Java w/ Spring.
 
