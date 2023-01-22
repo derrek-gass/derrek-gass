@@ -1,6 +1,6 @@
-### Full-Stack Engineer
+### Full-Stack Engineer ###
 
-- 🔭 I’m currently working on projects with React and TypeScript, and Java w/ Spring.
+- 🔭 I’m currently working on projects with React and TypeScript.
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
