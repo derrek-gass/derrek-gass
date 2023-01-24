@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a VST plugin for exploring vector modulated distortion similar to Minimal Audio's Rift or Output's Thermal.
 - 💻 Fluent in Java, sharp with TypeScript, capable but not yet dangerous with SQL, and spent plenty of time in React to both love and hate it.
 - 🌱 Other skills I'm growing: C++, bash (simple but powerful), Python (I dont love it, but I need it), Cloud/DevOps stuff (K8s, Docker, AWS, etc.)
-- 😴 Programming languages I've used but that bore me: PHP, Perl, Ruby, ASM, Scheme, VisualBasic (everyone has to make pong with their buddy at 16, or did you even really live?)
+- 😴 Programming languages I've used but that bore me: PHP, Perl, Ruby, ASM, Scheme, VisualBasic... Everyone should make pong with their buddy at 16... that was a mood!
 - ⏳ Languages that seem cool but I have no time to get good with: Clojure, Rust
 - 🎸 I’m looking to collaborate on music projects, we could jam and show off our processing chains, or we could make a 5D compositional, recommendation tool, based on analysing sequential note frequency across the modern corpus of written/recorded works, in order to suggest how likely any particular note would follow sequentially in context. This could highlight the most popular musical structures, and open up other possibilities for exploring the road less traveled. Or we could build something beautifully overengineered like a piece of DSP driven hardware. Lets go!
 - 💬 Ask me about the meaning of life, what I live for, and for random facts about Jellyfish.
