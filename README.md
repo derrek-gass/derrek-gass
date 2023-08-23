@@ -1,6 +1,6 @@
 ### Full-Stack Engineer ###
 
-- 🔭 Hobbyist Audio Programmer, App maker 
+- 🔭 Hobbyist Audio Programmer, App maker, Web Developer, Hacker
 - 💻 Main Skills: Java, JavaScript, TypeScript, React, Shell Scripting, AWS DevOps
 - ⚡ Older Skills: C/C++, Python, 
 - 🌱 Currently Learning: Clojure, Rust, Go, more AWS
