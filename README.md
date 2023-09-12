@@ -1,9 +1,10 @@
 ### Full-Stack Engineer ###
 
-- 🔭 Programmer, Developer, Hacker
-- 💻 Main Skills: Java, JavaScript, TypeScript, React, Shell Scripting, AWS DevOps
-- ⚡ Older Skills: C/C++, Python, 
-- 🌱 Currently Learning: Clojure, Rust, Go, more AWS
+- 🔭 An Enthusiastic Developer
+- 💻 Main Skills: Java, JavaScript, TypeScript, React
+- ⚡ Other Skills: C/C++, Python, Docker, K8s, AWS
+- 🌱 Currently Studying for: AWS Certification, Interviews
+- 📖 Learning: Zig, Clojure, BETH stack
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
