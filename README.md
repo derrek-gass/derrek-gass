@@ -1,7 +1,7 @@
 ### Full-Stack Engineer | Developing Innovative & Scalable Solutions ###
 
-- 💻 Java, JavaScript, TypeScript, React
-- ⚡ C/C++, Python, Docker, K8s, AWS
+- 💻 Java, JavaScript, TypeScript, HTML, CSS, Node, React, Spring, PostgreSQL
+- ⚡ Bash, Git, Jira, AWS, Docker, Kubernetes, REST, CI/CD, Agile/Scrum
 - 🌱 Studying for: AWS Certification
 - 📖 Learning: Rust, Clojure, BETH stack
 <!--
