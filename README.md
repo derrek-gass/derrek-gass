@@ -1,4 +1,4 @@
-### Full-Stack Engineer ###
+### Full-Stack Engineer | Developing Innovative & Scalable Solutions ###
 
 - 💻 Java, JavaScript, TypeScript, React
 - ⚡ C/C++, Python, Docker, K8s, AWS
