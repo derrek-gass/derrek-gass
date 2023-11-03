@@ -1,7 +1,8 @@
 ### Full-Stack Engineer | Developing Innovative & Scalable Solutions ###
 
 - 💻 Java, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind, Node, React, Spring, SpringBoot, JDBI, SQL, PostgreSQL
-- ⚡ Bash, Git, Jira, AWS, Gradle, Maven, Docker, Kubernetes, REST, CI/CD, Agile/Scrum
+- ⚡ Bash, Git, Jira, AWS, Gradle, Maven, Docker, Kubernetes, CI/CD, Agile/Scrum
+- 🔭 OOP, Functional Programming, RESTful applications, Microservices, TDD
 - 🌱 Studying for: AWS Certification
 - 📖 Learning: Rust, NextJS
 <!--
