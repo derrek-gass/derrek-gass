@@ -1,10 +1,10 @@
-### Full-Stack Engineer | Developing Innovative & Scalable Solutions ###
+### Software Engineer ###
 
-- 💻 Java, JavaScript, TypeScript, HTML, CSS, Sass, Bootstrap, Gatsby, Tailwind, Node, React, Spring, SpringBoot, JDBI, SQL, PostgreSQL
-- ⚡ Bash, Git, Jira, AWS, Gradle, Maven, Jest, JUnit, Playwright, Docker, Kubernetes, CI/CD, Agile/Scrum
+- 💻 Java, JavaScript, TypeScript, HTML, CSS, React, Spring, SpringBoot, JDBI, SQL, PostgreSQL
+- ⚡ Bash, Git, Jira, AWS, Gradle, Maven, Jest, JUnit, Docker
 - 🔭 OOP, Functional Programming, RESTful applications, Microservices, TDD
 - 🌱 Studying for: AWS Certification
-- 📖 Learning: Rust, NextJS
+- 📖 Learning: Rust, Go
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
