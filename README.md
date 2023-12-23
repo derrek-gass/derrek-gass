@@ -2,8 +2,6 @@
 
 - 💻 Java, JavaScript, TypeScript, HTML, CSS, React, Spring, PostgreSQL
 - ⚡ Bash, Git, Jira, AWS, Docker
-- 🔭 OOP, Functional Programming, RESTful applications, Microservices, TDD
-- 🌱 Studying for: AWS Certification
 - 📖 Learning: Rust, Go
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
