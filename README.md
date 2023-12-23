@@ -1,7 +1,7 @@
 ### Software Engineer ###
 
 - 💻 Java, JavaScript, TypeScript, HTML, CSS, React, Spring, PostgreSQL
-- ⚡ Bash, Git, Jira, AWS, Gradle, Maven, Jest, JUnit, Docker
+- ⚡ Bash, Git, Jira, AWS, Docker
 - 🔭 OOP, Functional Programming, RESTful applications, Microservices, TDD
 - 🌱 Studying for: AWS Certification
 - 📖 Learning: Rust, Go
