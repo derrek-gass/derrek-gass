@@ -1,7 +1,8 @@
 ### Software Engineer ###
 
-- 💻 Java, JavaScript, TypeScript, HTML, CSS, React, Spring, PostgreSQL
-- ⚡ Bash, Git, Jira, AWS, Docker
+- 💻 FrontEnd: JavaScript, TypeScript, HTML, CSS, React
+- 🔭 Backend: Java, Spring, PostgreSQL
+- ⚡ Deployment: Bash, Git, Jira, AWS, Docker
 - 📖 Learning: Rust, Go
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
