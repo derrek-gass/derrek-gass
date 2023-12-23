@@ -1,7 +1,7 @@
 ### Software Engineer ###
 
 - 💻 FrontEnd: JavaScript, TypeScript, HTML, CSS, React
-- 🔭 Backend: Java, Spring, PostgreSQL
+- 🔭 BackEnd: Java, Spring, PostgreSQL
 - ⚡ Deployment: Bash, Git, Jira, AWS, Docker
 - 📖 Learning: Rust, Go
 <!--
