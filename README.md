@@ -2,7 +2,7 @@
 
 - 💻 Front-End: JavaScript, TypeScript, HTML, CSS, React
 - 🔭 Back-End: Java, Spring, PostgreSQL
-- ⚡ Additional Tooling: Bash, Git, Jira, AWS, Docker, Unix, Linux
+- ⚡  Tooling: Bash, Git, Jira, AWS, Docker, Unix, Linux
 - 📖 Learning: Rust, Go
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
