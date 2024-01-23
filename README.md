@@ -3,7 +3,7 @@
 - 👨🏻‍💻 Front-End: — JavaScript, TypeScript, React, Next, Node, HTML, CSS, Sass, Less, jQuery, ThreeJS, D3, Bootstrap, Handlebars, Jest, Selenium
 - 🗄️ Back-End: — Java, Python, SQL, PostgreSQL, Bash, Spring, Spring Boot, Flask, Gradle, Maven, Flyway, Swagger, JPA, JDBI, Hibernate, Jackson, Lombok
 - ⚙️ DevOps: — Docker, Kubernetes, Terraform, Nginx, AWS: (EC2, S3, Lambda), OpenAPI, Grafana, Git, GitLab, Jira, Confluence
-- 🛠️ Libraries & Tooling: — Lodash, Axios, Pandas, Shadertoy, React-three-fiber, babashka
+- 🛠️ Libraries & Tooling: — Lodash, Axios, Pandas, Shadertoy, React-three-fiber, D3, babashka
 - 📖 Grokking: — Rust, Go, Next, Clojure
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
