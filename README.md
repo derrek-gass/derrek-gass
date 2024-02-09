@@ -1,10 +1,9 @@
 ### Software Engineer ###
 
-- 👨🏻‍💻 Front-End: — JavaScript, TypeScript, React, Next, Vue, Node, HTML, CSS, Sass, Less, jQuery, ThreeJS, D3, Bootstrap, Tailwind, Jest, Selenium
+- 👨🏻‍💻 Front-End: — JavaScript, TypeScript, React, Next, Nuxt, Node, HTML, CSS, Sass, Less, Bootstrap, Tailwind, jQuery, Jest, Selenium
 - 🗄️ Back-End: — Java, Rust, Python, Bash, SQL, SQLite, PostgreSQL, Spring, Spring Boot, Flask, Flyway, Swagger, JDBI, Hibernate
-- ⚙️ DevOps: — Docker, Kubernetes, Terraform, AWS: (EC2, S3, Lambda, Aurora), Grafana, Git, GitLab, Jira
-- 🛠️ Libraries & Tooling: — Lodash, Axios, Jackson, Dask, Pandas, Shadertoy, React-three-fiber, D3, Vite
-- 📖 Learning: — Next, Vite,
+- ⚙️ DevOps: — Docker, Kubernetes, Terraform, AWS, Grafana, Git, GitLab, Jira
+- 🛠️ Libraries & Tooling: — Lodash, Axios, Jackson, Dask, Pandas, Shadertoy, ThreeJS, D3, Vite
 <!--
 **derrek-gass/derrek-gass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
