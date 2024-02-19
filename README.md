@@ -1,7 +1,7 @@
 ### Software Engineer ###
 
 - 👨🏻‍💻 Front-End: — JavaScript, TypeScript, React, Next, Nuxt, Node, HTML, CSS, Sass, Less, Bootstrap, Tailwind, jQuery, Jest, Selenium
-- 🗄️ Back-End: — Java, Rust, Python, Bash, SQL, SQLite, PostgreSQL, Spring, Spring Boot, Flask, Flyway, Swagger, JDBI, Hibernate
+- 🗄️ Back-End: — Java, C++, Rust, Python, Bash, SQL, SQLite, PostgreSQL, Spring, Spring Boot, Flask, Flyway, Swagger, JDBI, Hibernate
 - ⚙️ DevOps: — Docker, Kubernetes, Terraform, AWS, Grafana, Git, GitLab, Jira
 - 🛠️ Libraries & Tooling: — Lodash, Axios, Jackson, Dask, Pandas, Shadertoy, ThreeJS, D3, Vite
 <!--
